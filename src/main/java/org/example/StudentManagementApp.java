@@ -4,6 +4,8 @@ class Student {
     private String name;
     private int age;
     private String rollNumber;
+        private String new;
+
 
     public Student(String name, int age, String rollNumber) {
         this.name = name;
